@@ -109,16 +109,16 @@
 // let a=prompt("Son kiriting: ")-0
 // let b=prompt("Son kiriting: ")-0
 // let c=prompt("Ishirani kiriting")
-// if(c = "plus"){
+// if(c == "+"){
 //     console.log(a + b);
 // }
-// else if(c = "ko'pay"){
+// else if(c == "*"){
 //     console.log(a * b);
 // }
-// else if(c = "minus"){
+// else if(c == "-"){
 //     console.log(a - b);
 // }
-// else if(c = "bo'lish"){
+// else if(c == "/"){
 //     console.log(a / b);
 // }
 // else{
